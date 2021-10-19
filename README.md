@@ -15,13 +15,13 @@ The project is still under development and future updates will focus on the foll
 - [ ] JS
 - [ ] Create other navigation menu interfaces
 
-## 🌐 To view
+## To view
 
 > if you want to view the project in your browser use this link from github itself.
 
 https://luanrebuli.github.io/playstation-store/
 
-## 🤝 Contributors
+## Contributors
 
 We thank the following people who contributed to this project:
 
